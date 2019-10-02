@@ -5,7 +5,7 @@ Repository to store nfl statistics in csv format.
 The repository is structured by {season} folders.
 
 Each folder contain the following list of files.
-- game.csv: the list of all the games with for the season 
+- game-score.csv: the list of all the games with for the season 
 - defense.csv: the team defensive statistics for the season
 - defense-passing.csv: the teams defensive-passing statistics for the season.
 - defense-rushing.csv: the teams defensive-rushing statistics for the season.
